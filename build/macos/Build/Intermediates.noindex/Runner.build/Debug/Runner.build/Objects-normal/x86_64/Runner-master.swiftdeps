@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "6cc4916330c398234f11377493c4131f93c2a410adbaada3f8d00b54b68c255b"
+build_start_time: [1679904810, 126724958]
+build_end_time: [1679904825, 159099102]
+inputs:
+  "/Users/user/Desktop/selim_trade/selim_trade/macos/Flutter/GeneratedPluginRegistrant.swift": [1679904785, 653191089]
+  "/Users/user/Desktop/selim_trade/selim_trade/macos/Runner/AppDelegate.swift": [1671141058, 0]
+  "/Users/user/Desktop/selim_trade/selim_trade/macos/Runner/MainFlutterWindow.swift": [1671141058, 0]
